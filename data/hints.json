@@ -1,0 +1,17 @@
+[
+  {
+    "rule": "r1",
+    "word": "书法",
+    "label": "calligraphy"
+  },
+  {
+    "rule": "r2",
+    "word": "手机",
+    "label": "phone"
+  },
+  {
+    "rule": "r3",
+    "word": "晚上",
+    "label": "schedule"
+  }
+]

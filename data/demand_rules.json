@@ -1,0 +1,22 @@
+[
+  {
+    "label": "photo",
+    "minimum_people": 3
+  },
+  {
+    "label": "camera",
+    "minimum_people": 3
+  },
+  {
+    "label": "phone",
+    "minimum_people": 3
+  },
+  {
+    "label": "calligraphy",
+    "minimum_people": 3
+  },
+  {
+    "label": "craft",
+    "minimum_people": 3
+  }
+]

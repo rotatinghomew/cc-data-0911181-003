@@ -1,0 +1,152 @@
+[
+  {
+    "label": "interest",
+    "parent": null,
+    "axis": "interest",
+    "version": "v1"
+  },
+  {
+    "label": "art",
+    "parent": "interest",
+    "axis": "interest",
+    "version": "v1"
+  },
+  {
+    "label": "digital",
+    "parent": "interest",
+    "axis": "interest",
+    "version": "v1"
+  },
+  {
+    "label": "photo",
+    "parent": "digital",
+    "axis": "interest",
+    "version": "v1"
+  },
+  {
+    "label": "camera",
+    "parent": "photo",
+    "axis": "interest",
+    "version": "v1"
+  },
+  {
+    "label": "phone",
+    "parent": "digital",
+    "axis": "interest",
+    "version": "v1"
+  },
+  {
+    "label": "calligraphy",
+    "parent": "art",
+    "axis": "interest",
+    "version": "v1"
+  },
+  {
+    "label": "craft",
+    "parent": "art",
+    "axis": "interest",
+    "version": "v1"
+  },
+  {
+    "label": "barrier",
+    "parent": null,
+    "axis": "barrier",
+    "version": "v1"
+  },
+  {
+    "label": "schedule",
+    "parent": "barrier",
+    "axis": "barrier",
+    "version": "v1"
+  },
+  {
+    "label": "format",
+    "parent": "barrier",
+    "axis": "barrier",
+    "version": "v1"
+  },
+  {
+    "label": "access",
+    "parent": "barrier",
+    "axis": "barrier",
+    "version": "v1"
+  },
+  {
+    "label": "interest",
+    "parent": null,
+    "axis": "interest",
+    "version": "v2"
+  },
+  {
+    "label": "art",
+    "parent": "interest",
+    "axis": "interest",
+    "version": "v2"
+  },
+  {
+    "label": "digital",
+    "parent": "interest",
+    "axis": "interest",
+    "version": "v2"
+  },
+  {
+    "label": "photo",
+    "parent": "digital",
+    "axis": "interest",
+    "version": "v2"
+  },
+  {
+    "label": "camera",
+    "parent": "photo",
+    "axis": "interest",
+    "version": "v2"
+  },
+  {
+    "label": "phone",
+    "parent": "digital",
+    "axis": "interest",
+    "version": "v2"
+  },
+  {
+    "label": "calligraphy",
+    "parent": "art",
+    "axis": "interest",
+    "version": "v2"
+  },
+  {
+    "label": "craft",
+    "parent": "art",
+    "axis": "interest",
+    "version": "v2"
+  },
+  {
+    "label": "barrier",
+    "parent": null,
+    "axis": "barrier",
+    "version": "v2"
+  },
+  {
+    "label": "schedule",
+    "parent": "barrier",
+    "axis": "barrier",
+    "version": "v2"
+  },
+  {
+    "label": "format",
+    "parent": "barrier",
+    "axis": "barrier",
+    "version": "v2"
+  },
+  {
+    "label": "access",
+    "parent": "barrier",
+    "axis": "barrier",
+    "version": "v2"
+  },
+  {
+    "label": "mobile_photo",
+    "parent": "photo",
+    "axis": "interest",
+    "version": "v2"
+  }
+]

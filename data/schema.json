@@ -1,0 +1,85 @@
+{
+  "messages": {
+    "key": [
+      "message"
+    ],
+    "required": [
+      "message",
+      "person",
+      "month",
+      "text"
+    ],
+    "foreign": {}
+  },
+  "labels": {
+    "key": [
+      "message",
+      "reviewer"
+    ],
+    "required": [
+      "message",
+      "reviewer",
+      "labels",
+      "complete_axes",
+      "version"
+    ],
+    "foreign": {
+      "message": [
+        "messages",
+        "message"
+      ]
+    }
+  },
+  "taxonomy": {
+    "key": [
+      "version",
+      "label"
+    ],
+    "required": [
+      "label",
+      "axis",
+      "version"
+    ],
+    "foreign": {}
+  },
+  "hints": {
+    "key": [
+      "rule"
+    ],
+    "required": [
+      "rule",
+      "word",
+      "label"
+    ],
+    "foreign": {}
+  },
+  "releases": {
+    "key": [
+      "release"
+    ],
+    "required": [
+      "release",
+      "version",
+      "automatic"
+    ],
+    "foreign": {}
+  },
+  "routing_rules": {
+    "key": [
+      "label"
+    ],
+    "required": [
+      "label"
+    ],
+    "foreign": {}
+  },
+  "demand_rules": {
+    "key": [
+      "label"
+    ],
+    "required": [
+      "label"
+    ],
+    "foreign": {}
+  }
+}

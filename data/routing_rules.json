@@ -1,0 +1,34 @@
+[
+  {
+    "label": "photo",
+    "owner": "curriculum"
+  },
+  {
+    "label": "camera",
+    "owner": "curriculum"
+  },
+  {
+    "label": "phone",
+    "owner": "curriculum"
+  },
+  {
+    "label": "calligraphy",
+    "owner": "curriculum"
+  },
+  {
+    "label": "craft",
+    "owner": "curriculum"
+  },
+  {
+    "label": "schedule",
+    "owner": "campus"
+  },
+  {
+    "label": "access",
+    "owner": "accessibility"
+  },
+  {
+    "label": "format",
+    "owner": "teaching"
+  }
+]
